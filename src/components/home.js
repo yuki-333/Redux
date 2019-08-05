@@ -39,35 +39,3 @@ const styles = StyleSheet.create({
 });
 
 
-
-
-
-
-
-// <Text onPress={props.increment}>+1</Text>
-// <Text onPress={props.decrement}>-1</Text>
-
-
-
-
-// import React from 'react';
-// import { StyleSheet, Text, View } from 'react-native';
-
-// export default class App extends React.Component {
-//   render() {
-//     return (
-//       <View style={styles.container}>
-//         <Text>HEllO!I'll never forget the excitement i had at that time.</Text>
-//       </View>
-//     );
-//   }
-// }
-
-// const styles = StyleSheet.create({
-//   container: {
-//     flex: 1,
-//     backgroundColor: '#fff',
-//     alignItems: 'center',
-//     justifyContent: 'center',
-//   },
-// });
